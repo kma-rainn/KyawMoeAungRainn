@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KyawMoeAung
-- 👀 I’m interested in Tech & Web Development
-- 🌱 I’m currently learning FrontEnds
+- 👋 Hi, I’m @KyawMoeAung, currently work at JusWise
+- 👀 I’m interested in Legal-Tech & Web Development
 - 💞️ I’m looking to collaborate on New Projects with startups
 - 📫 How to reach me ... DM me via mail kyawmoeaung365@gmail.com (or) kyawmoeaung.work@gmail.com, and call me at +95 9 955751235
 <!---
